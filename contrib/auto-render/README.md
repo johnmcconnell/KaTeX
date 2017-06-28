@@ -29,7 +29,7 @@ See [index.html](index.html) for an example.
 
 ### API
 
-This extension exposes a single function, `window.renderMathInElement`, with
+This extension exposes two functions, `window.renderMathInElement` and `window.renderMathInText`, with
 the following API:
 
 ```js
